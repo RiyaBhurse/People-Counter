@@ -1,0 +1,36 @@
+body{
+    background-image: url(https://media-cdn.tripadvisor.com/media/photo-s/15/13/f1/fb/dhide-entrance.jpg);
+    background-size: cover;
+    font-weight: bold;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+button{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+#incrementBtn{
+    background-color: rgb(187, 31, 31);
+}
+#decrementBtn{
+    background-color: rgb(62, 131, 127);
+}
+#saveBtn{
+    background-color: rgb(31, 187, 31);
+}
+div{
+    background-color: aliceblue;
+}
